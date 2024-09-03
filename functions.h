@@ -7,9 +7,11 @@
 /// Read a file containing binary numbers
 /// Convert the binary to decimal
 /// write the new number to a new file;
+
 #include <string>
 #include <fstream>
 #include <iostream>
+
 void binaryToDecimalFile(const std::string& binaryFileName,
                          const std::string& decimalFileName);
 int convertToDecimal (const std::string& binaryStr);
