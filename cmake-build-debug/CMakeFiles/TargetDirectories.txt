@@ -1,0 +1,3 @@
+C:/Users/Dru/CLionProjects/CS8_FALL24_FILEIO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dru/CLionProjects/CS8_FALL24_FILEIO/cmake-build-debug/CMakeFiles/CS8_FALL24_FILEIO.dir
+C:/Users/Dru/CLionProjects/CS8_FALL24_FILEIO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
